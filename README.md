@@ -1,2 +1,9 @@
 # XX-C-language-yugal-balpande
-hi
+
+#include <stdio.h>
+
+int main() {
+
+    printf("hello yugal");
+    return 0;
+}
