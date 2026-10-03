@@ -2,6 +2,7 @@
 
 int main() 
 {
-    printf("Hello, yugal ");
+     printf("My name is Yugal Balpande solve Question 1\n"); 
+     printf("Hello, Yugal");
     return 0;
 }
