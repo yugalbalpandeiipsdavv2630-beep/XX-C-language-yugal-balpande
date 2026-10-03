@@ -4,7 +4,7 @@ int main()
 {
     int a, b, c;
 
-    printf("My name is Shivam Deshmukh solve Question 14\n");
+    printf("My name is Yugal Balpande solve Question 14\n");
 
     printf("Enter two numbers");
     scanf("%d %d", &a, &b);
